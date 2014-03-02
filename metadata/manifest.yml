@@ -6,10 +6,7 @@ Website: https://github.com/pbrazdil/openshift-resque-cartridge
 Cartridge-Version: 0.1.0
 Cartridge-Vendor: pbrazdil
 Categories:
-  - service
-  - embedded
-Requires:
-  - "ruby-1.9"
+  - plugin
 Provides:
   - resque
 Scaling:
