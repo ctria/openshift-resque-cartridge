@@ -8,6 +8,8 @@ Cartridge-Vendor: pbrazdil
 Categories:
   - service
   - embedded
+Requires:
+  - ruby-1.9
 Provides:
   - resque
 Scaling:
