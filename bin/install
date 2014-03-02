@@ -10,7 +10,7 @@ source $OPENSHIFT_CARTRIDGE_SDK_BASH
 mkdir -p log
 mkdir -p pid
 
-env 1>&1
+env 1>&2
 
 client_result "Downloading resque gem..."
 gem install --no-ri --no-rdoc resque
