@@ -9,7 +9,7 @@ Categories:
   - service
   - embedded
 Requires:
-  - ruby-1.9
+  - "ruby-1.9"
 Provides:
   - resque
 Scaling:
